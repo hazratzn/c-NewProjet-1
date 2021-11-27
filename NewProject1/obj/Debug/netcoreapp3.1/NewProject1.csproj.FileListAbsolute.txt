@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\bin\Debug\netcoreapp3.1\NewProject1.exe
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\bin\Debug\netcoreapp3.1\NewProject1.deps.json
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\bin\Debug\netcoreapp3.1\NewProject1.runtimeconfig.json
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\bin\Debug\netcoreapp3.1\NewProject1.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\bin\Debug\netcoreapp3.1\NewProject1.dll
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\bin\Debug\netcoreapp3.1\NewProject1.pdb
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.dll
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.pdb
+C:\Users\ASUS\Desktop\C#\NewProject1\NewProject1\obj\Debug\netcoreapp3.1\NewProject1.genruntimeconfig.cache
